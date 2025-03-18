@@ -1,4 +1,4 @@
-README - Frontend Development Internship Tasks
+ Frontend Development Internship Tasks
 
 This repository contains the completed tasks for the CodeAlpha Frontend Development Internship.
 
